@@ -7,3 +7,4 @@ nltk
 tensorflow
 xgboost
 minisom
+torch==2.5.1
